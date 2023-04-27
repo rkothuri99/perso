@@ -1,1 +1,1 @@
-nohup python m_Trigger_binalg.py ravi ethusdt 0.005 5 2 0.2 40 2
+nohup python m_Trigger_binalg.py ravi ethusdt 0.005 5 2 0.2 40 5
